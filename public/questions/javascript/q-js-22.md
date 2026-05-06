@@ -1,0 +1,34 @@
+---
+id: q-js-22
+title: "前端錯誤監控設計"
+level: ["Senior"]
+tags: ["JavaScript", "observability", "frontend"]
+template_group: ["JavaScript-Core", "Interview-Mixed"]
+question_type: "design"
+interview_type: "design"
+estimated_time: 25
+objective: "針對「前端錯誤監控設計」提出可落地方案，說明取捨與風險。"
+constraints: ["至少提出 2 種方案比較", "需覆蓋效能、可維護性與安全性", "列出監控與驗證指標"]
+expected_output: ["架構/流程設計", "方案比較與決策理由", "風險與驗證計畫"]
+scoring_criteria: ["是否準確理解題目邊界", "是否有結構化推理與清楚溝通", "是否兼顧工程取捨（效能/維護/安全）", "驗證策略是否可執行"]
+starter_code: ""
+version: 1
+status: active
+---
+
+## 背景情境
+你正在面試情境中處理「前端錯誤監控設計」相關任務。請先明確問題邊界與假設，不要直接給結論。
+
+## 任務說明
+1. 先拆解問題與核心風險。
+2. 提出可執行方案（coding 題請附可運行程式碼）。
+3. 說明驗證方式、失敗處置與可能回滾策略。
+
+## 常見誤區
+- 只給結論，不交代推理過程
+- 未處理邊界條件或異常情境
+- 沒有驗證與可觀測性設計
+
+## 延伸追問
+- 若資料量/流量提升 10 倍，你會怎麼調整？
+- 若改成多人協作，如何降低維護風險？

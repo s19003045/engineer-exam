@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "q-js-01",
+    "title": "閉包（Closure）與記憶體",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "fundamentals",
+      "scope"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-01.md"
+  },
+  {
+    "id": "q-js-02",
+    "title": "var/let/const 與 TDZ",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "fundamentals",
+      "scope"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-02.md"
+  },
+  {
+    "id": "q-js-03",
+    "title": "this 綁定規則整理",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "fundamentals",
+      "this"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-03.md"
+  },
+  {
+    "id": "q-js-04",
+    "title": "原型鍊查找流程",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "fundamentals",
+      "prototype"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-04.md"
+  },
+  {
+    "id": "q-js-05",
+    "title": "Event Loop 與微任務/巨任務",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "async",
+      "event-loop"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-05.md"
+  },
+  {
+    "id": "q-js-06",
+    "title": "Promise chaining 錯誤傳遞",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "async",
+      "promise"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-06.md"
+  },
+  {
+    "id": "q-js-07",
+    "title": "async/await 與例外處理",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "async",
+      "error-handling"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-07.md"
+  },
+  {
+    "id": "q-js-08",
+    "title": "防抖 debounce 實作",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "browser",
+      "performance"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-08.md"
+  },
+  {
+    "id": "q-js-09",
+    "title": "節流 throttle 實作",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "browser",
+      "performance"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-09.md"
+  },
+  {
+    "id": "q-js-10",
+    "title": "深拷貝策略比較",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "data-structure",
+      "object"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-10.md"
+  },
+  {
+    "id": "q-js-100",
+    "title": "AI 協作：需求拆解與驗證",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "ai-collaboration",
+      "planning"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-100.md"
+  },
+  {
+    "id": "q-js-11",
+    "title": "Array 常見去重方法",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "array",
+      "algorithm"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-11.md"
+  },
+  {
+    "id": "q-js-12",
+    "title": "Map vs Object 選型題",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "data-structure",
+      "map"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-12.md"
+  },
+  {
+    "id": "q-js-13",
+    "title": "Set/WeakSet 實際場景",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "memory",
+      "collection"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-13.md"
+  },
+  {
+    "id": "q-js-14",
+    "title": "DOM 事件委派設計",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "dom",
+      "event"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-14.md"
+  },
+  {
+    "id": "q-js-15",
+    "title": "Fetch API 錯誤重試策略",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "network",
+      "resilience"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-15.md"
+  },
+  {
+    "id": "q-js-16",
+    "title": "手寫 Promise.all",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "async",
+      "promise"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-16.md"
+  },
+  {
+    "id": "q-js-17",
+    "title": "手寫 Promise.race",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "async",
+      "promise"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-17.md"
+  },
+  {
+    "id": "q-js-18",
+    "title": "實作 LRU Cache（JS）",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "algorithm",
+      "cache"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-18.md"
+  },
+  {
+    "id": "q-js-19",
+    "title": "Top K 頻率元素（JS）",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "algorithm",
+      "array"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-19.md"
+  },
+  {
+    "id": "q-js-20",
+    "title": "二元樹層序走訪（JS）",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "algorithm",
+      "tree"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-20.md"
+  },
+  {
+    "id": "q-js-21",
+    "title": "字串最長無重複子串",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "algorithm",
+      "sliding-window"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-21.md"
+  },
+  {
+    "id": "q-js-22",
+    "title": "前端錯誤監控設計",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "observability",
+      "frontend"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-22.md"
+  },
+  {
+    "id": "q-js-23",
+    "title": "SPA 首屏優化方案",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "performance",
+      "web-vitals"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-23.md"
+  },
+  {
+    "id": "q-js-24",
+    "title": "記憶體洩漏排查案例",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "debug",
+      "memory"
+    ],
+    "question_type": "coding",
+    "interview_type": "debug",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-24.md"
+  },
+  {
+    "id": "q-js-25",
+    "title": "React 外的狀態管理比較",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "architecture",
+      "state"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-25.md"
+  },
+  {
+    "id": "q-js-26",
+    "title": "模組化（ESM/CJS）相容問題",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "module",
+      "nodejs"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-26.md"
+  },
+  {
+    "id": "q-js-27",
+    "title": "Node.js Stream 背壓機制",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "nodejs",
+      "stream"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-27.md"
+  },
+  {
+    "id": "q-js-28",
+    "title": "JWT 儲存位置安全性",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "security",
+      "auth"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-28.md"
+  },
+  {
+    "id": "q-js-29",
+    "title": "XSS/CSRF 防護策略",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "security",
+      "web"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-29.md"
+  },
+  {
+    "id": "q-js-30",
+    "title": "前端權限模型設計",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "security",
+      "rbac"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-30.md"
+  },
+  {
+    "id": "q-js-31",
+    "title": "程式碼審查：非同步陷阱",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "code-review",
+      "async"
+    ],
+    "question_type": "triage",
+    "interview_type": "review",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-31.md"
+  },
+  {
+    "id": "q-js-32",
+    "title": "程式碼審查：可讀性重構",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "code-review",
+      "refactor"
+    ],
+    "question_type": "triage",
+    "interview_type": "review",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-32.md"
+  },
+  {
+    "id": "q-js-33",
+    "title": "重構題：回呼地獄改寫",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "refactor",
+      "async"
+    ],
+    "question_type": "design",
+    "interview_type": "refactor",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-33.md"
+  },
+  {
+    "id": "q-js-34",
+    "title": "重構題：巨型函式拆分",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "refactor",
+      "design"
+    ],
+    "question_type": "design",
+    "interview_type": "refactor",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-34.md"
+  },
+  {
+    "id": "q-js-35",
+    "title": "測試題：如何測 Promise 邏輯",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "testing",
+      "unit-test"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-35.md"
+  },
+  {
+    "id": "q-js-36",
+    "title": "測試題：mock fetch 與 timeout",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "testing",
+      "mocking"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-36.md"
+  },
+  {
+    "id": "q-js-37",
+    "title": "前端檔案上傳流程設計",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "system-design",
+      "frontend"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-37.md"
+  },
+  {
+    "id": "q-js-38",
+    "title": "大表格虛擬滾動設計",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "performance",
+      "ui"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-38.md"
+  },
+  {
+    "id": "q-js-39",
+    "title": "多人協作衝突處理（Git）",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "collaboration",
+      "git"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-39.md"
+  },
+  {
+    "id": "q-js-40",
+    "title": "Monorepo 套件版本策略",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "architecture",
+      "monorepo"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-40.md"
+  },
+  {
+    "id": "q-js-41",
+    "title": "BFF 與前端分層邊界",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "architecture",
+      "bff"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-41.md"
+  },
+  {
+    "id": "q-js-42",
+    "title": "灰度發布與回滾機制",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "release",
+      "ops"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-42.md"
+  },
+  {
+    "id": "q-js-43",
+    "title": "高流量活動頁降載策略",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "scalability",
+      "resilience"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-43.md"
+  },
+  {
+    "id": "q-js-44",
+    "title": "事故題：API 全面超時處置",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "incident",
+      "response"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-44.md"
+  },
+  {
+    "id": "q-js-45",
+    "title": "事故題：CDN 快取汙染排查",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "incident",
+      "cdn"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-45.md"
+  },
+  {
+    "id": "q-js-46",
+    "title": "技術決策：SSR/CSR/ISR 取捨",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "architecture",
+      "rendering"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-46.md"
+  },
+  {
+    "id": "q-js-47",
+    "title": "團隊規範：Lint/Format/CI Gate",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "engineering-process",
+      "quality"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-47.md"
+  },
+  {
+    "id": "q-js-48",
+    "title": "資料隱私：前端敏感資訊治理",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "security",
+      "privacy"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-48.md"
+  },
+  {
+    "id": "q-js-49",
+    "title": "AI 協作題：Prompt 驗證策略",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "ai-collaboration",
+      "verification"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-49.md"
+  },
+  {
+    "id": "q-js-50",
+    "title": "AI 協作題：接受/拒絕 AI 建議",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "ai-collaboration",
+      "decision"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-50.md"
+  },
+  {
+    "id": "q-js-51",
+    "title": "Generator 與 Iterator 實戰",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "generator",
+      "iterator"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-51.md"
+  },
+  {
+    "id": "q-js-52",
+    "title": "Proxy 攔截應用場景",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "proxy",
+      "meta-programming"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-52.md"
+  },
+  {
+    "id": "q-js-53",
+    "title": "Reflect 與 Proxy 搭配",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "proxy",
+      "reflect"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-53.md"
+  },
+  {
+    "id": "q-js-54",
+    "title": "Symbol 使用時機",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "symbol",
+      "fundamentals"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-54.md"
+  },
+  {
+    "id": "q-js-55",
+    "title": "BigInt 與數值精度議題",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "bigint",
+      "number"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-55.md"
+  },
+  {
+    "id": "q-js-56",
+    "title": "Intl API 國際化策略",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "i18n",
+      "intl"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-56.md"
+  },
+  {
+    "id": "q-js-57",
+    "title": "URL 與 URLSearchParams 操作",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "browser",
+      "url"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-57.md"
+  },
+  {
+    "id": "q-js-58",
+    "title": "AbortController 取消請求",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "fetch",
+      "abort"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-58.md"
+  },
+  {
+    "id": "q-js-59",
+    "title": "Web Worker 分工設計",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "worker",
+      "performance"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-59.md"
+  },
+  {
+    "id": "q-js-60",
+    "title": "Service Worker 快取策略",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "pwa",
+      "cache"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-60.md"
+  },
+  {
+    "id": "q-js-61",
+    "title": "IndexedDB 離線資料設計",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "indexeddb",
+      "offline"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-61.md"
+  },
+  {
+    "id": "q-js-62",
+    "title": "localStorage vs sessionStorage",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "storage",
+      "browser"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-62.md"
+  },
+  {
+    "id": "q-js-63",
+    "title": "MutationObserver 使用情境",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "dom",
+      "observer"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-63.md"
+  },
+  {
+    "id": "q-js-64",
+    "title": "IntersectionObserver 應用",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "dom",
+      "observer"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-64.md"
+  },
+  {
+    "id": "q-js-65",
+    "title": "requestAnimationFrame 優化",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "animation",
+      "performance"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-65.md"
+  },
+  {
+    "id": "q-js-66",
+    "title": "Reflow/Repaint 問題排查",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "rendering",
+      "performance"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-66.md"
+  },
+  {
+    "id": "q-js-67",
+    "title": "長列表渲染瓶頸診斷",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "performance",
+      "ui"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-67.md"
+  },
+  {
+    "id": "q-js-68",
+    "title": "前端錯誤分級策略",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "error-handling",
+      "observability"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-68.md"
+  },
+  {
+    "id": "q-js-69",
+    "title": "Source Map 上線策略",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "debug",
+      "release"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-69.md"
+  },
+  {
+    "id": "q-js-70",
+    "title": "Feature Flag 前端落地",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "release",
+      "feature-flag"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-70.md"
+  },
+  {
+    "id": "q-js-71",
+    "title": "A/B Test 前端實作要點",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "experiment",
+      "product"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-71.md"
+  },
+  {
+    "id": "q-js-72",
+    "title": "CSR SEO 風險與補救",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "seo",
+      "architecture"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-72.md"
+  },
+  {
+    "id": "q-js-73",
+    "title": "Web Accessibility 基礎檢查",
+    "level": [
+      "Junior"
+    ],
+    "tags": [
+      "JavaScript",
+      "a11y",
+      "ui"
+    ],
+    "question_type": "triage",
+    "interview_type": "review",
+    "estimated_time": 15,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-73.md"
+  },
+  {
+    "id": "q-js-74",
+    "title": "鍵盤操作與焦點管理",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "a11y",
+      "interaction"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-74.md"
+  },
+  {
+    "id": "q-js-75",
+    "title": "表單驗證架構設計",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "form",
+      "validation"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-75.md"
+  },
+  {
+    "id": "q-js-76",
+    "title": "資料正規化(normalization)",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "state",
+      "data"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-76.md"
+  },
+  {
+    "id": "q-js-77",
+    "title": "快取失效策略(Cache Invalidation)",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "cache",
+      "architecture"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-77.md"
+  },
+  {
+    "id": "q-js-78",
+    "title": "一致性哈希在前端應用",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "algorithm",
+      "scalability"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-78.md"
+  },
+  {
+    "id": "q-js-79",
+    "title": "GraphQL 客戶端快取策略",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "graphql",
+      "cache"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-79.md"
+  },
+  {
+    "id": "q-js-80",
+    "title": "REST API 版本管理題",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "api",
+      "versioning"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-80.md"
+  },
+  {
+    "id": "q-js-81",
+    "title": "WebSocket 斷線重連設計",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "websocket",
+      "resilience"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-81.md"
+  },
+  {
+    "id": "q-js-82",
+    "title": "SSE 與 WebSocket 取捨",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "realtime",
+      "architecture"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-82.md"
+  },
+  {
+    "id": "q-js-83",
+    "title": "前端加密誤區與界線",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "security",
+      "crypto"
+    ],
+    "question_type": "triage",
+    "interview_type": "review",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-83.md"
+  },
+  {
+    "id": "q-js-84",
+    "title": "CSP 設定與相容性",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "security",
+      "csp"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-84.md"
+  },
+  {
+    "id": "q-js-85",
+    "title": "Supply Chain 攻擊防護",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "security",
+      "dependency"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-85.md"
+  },
+  {
+    "id": "q-js-86",
+    "title": "NPM 套件審核流程",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "security",
+      "process"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-86.md"
+  },
+  {
+    "id": "q-js-87",
+    "title": "Monolith Frontend 切分策略",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "architecture",
+      "frontend"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-87.md"
+  },
+  {
+    "id": "q-js-88",
+    "title": "Micro-frontend 邊界治理",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "architecture",
+      "microfrontend"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-88.md"
+  },
+  {
+    "id": "q-js-89",
+    "title": "Design Token 治理模式",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "design-system",
+      "governance"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-89.md"
+  },
+  {
+    "id": "q-js-90",
+    "title": "前端觀測儀表板指標",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "observability",
+      "metrics"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-90.md"
+  },
+  {
+    "id": "q-js-91",
+    "title": "跨時區日期處理陷阱",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "date",
+      "timezone"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-91.md"
+  },
+  {
+    "id": "q-js-92",
+    "title": "浮點誤差與金流風險",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "number",
+      "finance"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-92.md"
+  },
+  {
+    "id": "q-js-93",
+    "title": "大型表單草稿保存",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "form",
+      "persistence"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-93.md"
+  },
+  {
+    "id": "q-js-94",
+    "title": "檔案分片上傳策略",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "upload",
+      "network"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-94.md"
+  },
+  {
+    "id": "q-js-95",
+    "title": "跨頁狀態同步方案",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "state",
+      "sync"
+    ],
+    "question_type": "design",
+    "interview_type": "design",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-95.md"
+  },
+  {
+    "id": "q-js-96",
+    "title": "錯誤邊界(Error Boundary)設計",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "react",
+      "error-handling"
+    ],
+    "question_type": "coding",
+    "interview_type": "coding",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-96.md"
+  },
+  {
+    "id": "q-js-97",
+    "title": "模擬面試：Bug 追查流程",
+    "level": [
+      "Senior"
+    ],
+    "tags": [
+      "JavaScript",
+      "debug",
+      "process"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 25,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-97.md"
+  },
+  {
+    "id": "q-js-98",
+    "title": "模擬面試：效能回歸調查",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "performance",
+      "incident"
+    ],
+    "question_type": "triage",
+    "interview_type": "triage",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-98.md"
+  },
+  {
+    "id": "q-js-99",
+    "title": "AI 協作：程式碼審查提示詞",
+    "level": [
+      "Lead"
+    ],
+    "tags": [
+      "JavaScript",
+      "ai-collaboration",
+      "prompt"
+    ],
+    "question_type": "triage",
+    "interview_type": "review",
+    "estimated_time": 35,
+    "status": "active",
+    "version": 1,
+    "path": "/questions/javascript/q-js-99.md"
+  }
+]
